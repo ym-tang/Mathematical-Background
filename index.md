@@ -1,5 +1,3 @@
-### [Home](https://ym-tang.github.io/Home/)
-## Mathematical Background
 
 Here’re what I’ve learned and read for the last two years. Currently, I’m focusing on arithmetic applications of Shimura varieties and p-adic modular forms.
 
@@ -8,6 +6,7 @@ Here’re what I’ve learned and read for the last two years. Currently, I’m 
 - **Capital Normal University (CNU)**.    2020/09-2023/06
 department of mathematics for master’s degree 
 
+### [Home](https://ym-tang.github.io/Home/)
 ### [Education Background](https://ym-tang.github.io/Educational/)
 ### [Seminars and Conferences](https://ym-tang.github.io/Seminars/)
 ### [Talks and Slides](https://ym-tang.github.io/Talks/)
