@@ -37,6 +37,6 @@ Here’re what I’ve learned and read for the last two years. Currently, I’m 
 
 
 ### [Home](https://ym-tang.github.io/Home/)
-### [Education Background](https://ym-tang.github.io/Educational/)
-### [Seminars and Conferences](https://ym-tang.github.io/Seminars/)
-### [Talks and Slides](https://ym-tang.github.io/Talks/)
+### [Education Background](https://ym-tang.github.io/Educational-Background/)
+### [Seminars and Conferences](https://ym-tang.github.io/Seminars-and-Conferences/)
+### [Talks and Slides](https://ym-tang.github.io/Talks-and-Slides/)
