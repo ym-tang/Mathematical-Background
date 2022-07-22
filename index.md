@@ -1,5 +1,5 @@
 
-Here’re what I’ve learned and read for the last two years. Currently, I’m focusing on arithmetic applications of Shimura varieties and p-adic modular forms.
+### Here’re what I’ve learned and read for the last two years. Currently, I’m focusing on arithmetic applications of Shimura varieties and p-adic modular forms.
 
 - In the first year of master’s degree, I spent most of my time on **algebraic geometry and number theory**, including first four chapters of Hartshone, basic etale cohomology and class field theory.
 
