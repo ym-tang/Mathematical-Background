@@ -1,5 +1,5 @@
 
-### Here’re what I’ve learned and read for the last two years. Currently, I’m focusing on arithmetic applications of Shimura varieties and p-adic modular forms.
+### Here’re what I’ve learned and read for the last two years. Currently, I’m learning Shimura varieties and p-adic modular forms.
 
 - In the first year of master’s degree, I spent most of my time on **algebraic geometry and number theory**, including first four chapters of Hartshone, basic etale cohomology and class field theory.
 
@@ -27,7 +27,7 @@
 - [10]   Hida, Haruzo. "Elementary theory of L-functions and Eisenstein series. "  No. 26. Cambridge University Press, 1993.
 - [11]   Katz, Nicholas M. "P-adic properties of modular schemes and modular forms." Modular functions of one variable III. Springer, Berlin, Heidelberg, 1973. 69-190.
 - [12]   Emerton, Matthew. "p-adic families of modular forms [after Hida, Coleman, and Mazur]." (2009).
-- [13]   Dalawat, Chandan Singh. "Ribet's modular construction of unramified p-extensions of Q Q\left(\mu_p\right)." arXiv preprint arXiv:0903.2617 (2009).
+- [13]   Dalawat, Chandan Singh. "Ribet's modular construction of unramified p-extensions of Q $Q\left(\mu_p\right)$." arXiv preprint arXiv:0903.2617 (2009).
 - [14]   Serre, Jean-Pierre. "Local fields. " Vol. 67. Springer Science & Business Media, 2013.
 
 
