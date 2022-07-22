@@ -34,19 +34,19 @@
 ## References
 
 - [1]   Diamond, Fred, and John Im. "Modular forms and modular curves." Seminar on Fermat’s Last Theorem, Providence, RI. 1995.
-- [2]   Shimura, Goro. "Introduction to the arithmetic theory of automorphic functions. " Vol. 1. Princeton university press, 1971.
+- [2]   Shimura, Goro. "Introduction to the arithmetic theory of automorphic functions."  Vol. 1. Princeton university press, 1971.
 - [3]   Serre, Jean-Pierre. "Sur les représentations modulaires de degré 2 de $Gal\left(\bar{Q}/Q\right)$." Duke Mathematical Journal 54.1 (1987): 179-230.
-- [4]   Ribet, Kenneth A. "A modular construction of unramified p-extensions of $Gal\left(\bar{Q}/Q\right)$.." Invent. math 34.3 (1976): 151-162.
+- [4]   Ribet, Kenneth A. "A modular construction of unramified p-extensions of $Gal\left(\bar{Q}/Q\right)$." Invent. math 34.3 (1976): 151-162.
 - [5]   Ribet, Kenneth A. "A modular construction of unramified p-extensions of $Q\left(\mu_p\right)$." Invent. math 34.3 (1976): 151-162.
-- [6]   Joseph H. Silverman. "The Arithmetic of Elliptic Curves. " Graduate Texts in Mathematics 106. Springer-Verlag, 1986.
-- [7]   Serre, Jean-Pierre.Abelian l-adic representations and elliptic curves. AK Peters/CRC Press, 1997.
+- [6]   Joseph H. Silverman. "The Arithmetic of Elliptic Curves."  Graduate Texts in Mathematics 106. Springer-Verlag, 1986.
+- [7]   Serre, Jean-Pierre. "Abelian l-adic representations and elliptic curves." AK Peters/CRC Press, 1997.
 - [8]   http://www-personal.umich.edu/~asnowden/teaching/2013/679/index.html
 - [9]   Gouvêa, Fernando Q. "Where the slopes are." arXiv preprint math/0009046 (2000).
-- [10]   Hida, Haruzo. "Elementary theory of L-functions and Eisenstein series. "  No. 26. Cambridge University Press, 1993.
+- [10]   Hida, Haruzo. "Elementary theory of L-functions and Eisenstein series."   No. 26. Cambridge University Press, 1993.
 - [11]   Katz, Nicholas M. "P-adic properties of modular schemes and modular forms." Modular functions of one variable III. Springer, Berlin, Heidelberg, 1973. 69-190.
 - [12]   Emerton, Matthew. "p-adic families of modular forms [after Hida, Coleman, and Mazur]." (2009).
 - [13]   Dalawat, Chandan Singh. "Ribet's modular construction of unramified p-extensions of $Q\left(\mu_p\right)$." arXiv preprint arXiv:0903.2617 (2009).
-- [14]   Serre, Jean-Pierre. "Local fields. " Vol. 67. Springer Science & Business Media, 2013.
+- [14]   Serre, Jean-Pierre. "Local fields." Vol. 67. Springer Science & Business Media, 2013.
 
 
 
