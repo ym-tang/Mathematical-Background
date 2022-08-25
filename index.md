@@ -17,7 +17,7 @@
 
 
 
-### Here’re what I’ve learned and read for the last two years. Currently, I’m learning Shimura varieties and p-adic modular forms.
+### Here’re what I’ve learned and read for the last two years. Currently, I’m learning Shimura varieties (especially concrete examples through Lan’s book) and p-adic Hodge theory.
 
 - In the first year of master’s degree, I spent most of my time on **algebraic geometry and number theory**, including first four chapters of Hartshone, basic etale cohomology and class field theory.
 
@@ -27,9 +27,8 @@
 
 - Between January and March this year, I started to read **Mazur’s Eisenstein ideal paper** with the help of the website [8] and some notes from B. Conrad’s seminar. I understood his proof about rational torsion points of elliptic curves over Q (and another different proof for this his gave next year), but didn’t read through the rest of his paper. During this process, I enriched knowledge about **Abelian varieties and Neron models**.
 
-- About three months ago, I found **slopes and congruences of modular forms** a rather interesting topic. At then I went into Ribet’s 1976 invent paper [4] mentioned above, in which he made heavy use of congruences between Eisenstein series and cuspidal forms to construct Galois representations. Then I read some further survey articles like Gouvêa’s survey [9] on slopes, Emerton’s [12] and Schraen’s [15] on p-adic modular forms. If time permits, I’d like to learn in details about Coleman and Mazur’s **eigencurve** theory.
-
-- I’ve heard a lot that **Shimura varieties** are extremely useful in various Langlands’ correspondence. and just started to learn them recently. Till now I’ve read about 60 pages of Milne’s book. And I wish there’s time to read Harris’ proof of local Langlands later.
+- About three months ago, I found **slopes and congruences of modular forms** a rather interesting topic. At then I went into Ribet’s 1976 invent paper [4] mentioned above, in which he made heavy use of congruences between Eisenstein series and cuspidal forms to construct Galois representations. Then I read some further survey articles like Gouvêa’s survey [9] on slopes, Emerton’s [12] and Schraen’s [15] on p-adic modular forms. I was also very interested in **more recent development due to Philloni**.
+- I learned basic definitions of **Shimura varieties** by Milne’s book and am learning more concrete examples through K. W. Lan’s book. I’m especially interested in arithmetic applications of their cohomology, like **Scholtz’s construction of Galois representations from them (perfectoid modular curve)**. For the next 1 or 2 months, I’m going to finish the rest of Milne’s book I haven’t read, including reductions and canonical models. In fact, I plan to write **my thesis** about some classical works on Shimura varieties like Ribet's invent 100 paper.
 
 - Another topic I intend to learn in the next two semesters is **p-adic Hodge theory**, as long as I find them appears frequently when I’m reading papers and act as a powerful tool to prove many things. For example, as Dalawat said in [13], proofs in [4] could be improved by Faltings’ result on crystalline representations.
 
